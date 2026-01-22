@@ -1,18 +1,18 @@
-# 👋 Merhaba, ben Arda
+# 👋 Hi, I’m Arda
 
-Kendi yazılım yolculuğuma sıfırdan başladım.  
-Şu anda **Python, HTML, CSS, JavaScript ve React** öğreniyorum.  
-Amacım: güçlü, profesyonel ve özgün projeler üretmek.  
-
----
-
-### 🚀 Hedeflerim
-- Gerçek projelerle deneyim kazanmak  
-- Freelance işlerle gelir elde etmek  
-- Kendi startup’ımı kurmak  
+I’m starting my journey in software development from scratch.  
+Currently learning **Python, HTML, CSS, JavaScript, and React**.  
+My goal is to build strong, professional, and unique projects that make an impact.
 
 ---
 
-### 📫 Bana ulaş:
+### 🚀 My Goals
+- Gain hands-on experience with real projects  
+- Earn income through freelance work  
+- Launch my own startup in the future  
+
+---
+
+### 📫 Contact Me
 - **Email:** [49ardaadanur@gmail.com]  
-- **GitHub:** [github.com/Ardawq49]
+- **GitHub:** [https://github.com/Ardawq49]
